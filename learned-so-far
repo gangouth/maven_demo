@@ -1,0 +1,16 @@
+How to install Redhat packages git jenkins python maven artifactory 
+How to setup & configure jenkins
+How to setup & configure maven build pipeline
+How to setup & configure to push war files to tomcat server
+How to setup & configure jfrog artifactory
+How to setup & configure mail via jenkins
+How to setup & configure slack notification via jenkins webhooks
+How to delegate tasks to jenkins slaves
+How to setup & configure ansible
+How to invoke ansible playbooks
+How to push war files via jenkins publish via ssh
+How to setup docker container environment
+
+Yet to learn
+How to push image builds to docker container via jenkins
+How to push image containers to run on aws ec2 instances via jenkins/ansible/aws-cli command sets
